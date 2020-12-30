@@ -23,12 +23,3 @@ Mikiko
        https://github.com/MMBazel/springboard-program/blob/master/Additional%20Resources/profile_pic_jpeg.jpg?raw=true
       )
 
-
---------------------------------------------------------------------------------------------------------------------------------
-# Project List by Unit of Study
-
-For a comprehensve list of the projects and corresponding skills needed, please see the list below.
-
-## Chapter 02. Introduction to ML & MLE
-
-
